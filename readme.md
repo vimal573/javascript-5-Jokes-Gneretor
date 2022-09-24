@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Jokes Generator [Live Link](https://name-conversion-js.netlify.app/)
+## Jokes Generator [Live Link](https://joke-generatorr.netlify.app/)
 
 - Skills Gained in this project
 
@@ -20,7 +20,7 @@
 
 ## Time taken to finish this project
 
-- 30 minutes to complete it
+- 15 minutes to complete it
 
 #### Screenshot
 
